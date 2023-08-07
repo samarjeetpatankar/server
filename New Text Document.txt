@@ -1,0 +1,4 @@
+create a .gitignore file
+add node_modules and .env file there
+
+create a vercel.json file add details there
